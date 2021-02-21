@@ -2,7 +2,7 @@
 
 ![Event-Aggregator](https://socialify.git.ci/DSC-SIST/Event-Aggregator/image?description=1&font=Raleway&forks=1&issues=1&language=1&owner=1&pattern=Signal&pulls=1&stargazers=1&theme=Dark)
 
-Have you ever wanted to know of all the Events happening across the College Campus? Or perhaps you wanted to know of all the big things happening in the College and perhaps capitalize on a lot of learnings.
+Have you ever wanted to know of all the Events happening across the College Campus? Or perhaps you wanted to know all the big things happening in the College and capitalize on a lot of learning.
 
 Presenting Event Aggregator, the solution to all the times you wanted to register for an Event, but could not because you were not aware about it ✨
 
