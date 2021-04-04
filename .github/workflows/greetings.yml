@@ -10,7 +10,7 @@ jobs:
   greeting:
     runs-on: ubuntu-latest
     steps:
-    - uses: Karthik-Nayak98/Greeting-action@main
+    - uses: KamalDGRT/Greeting-action@rks
       with:
         GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         issue_message: 'Hello @${{github.actor}}, <br>
