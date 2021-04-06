@@ -1,0 +1,12 @@
+# This file is related to assigning the Project Lead for the PRs
+
+name: 'Add Project Lead as Reviewer'
+on: pull_request
+
+jobs:
+  add-reviews:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: kentaro-m/auto-assign-action@v1.1.2
+        with:
+          configuration-path: ".github/auto_assign.yml"
