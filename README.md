@@ -10,7 +10,7 @@ Presenting Event Aggregator, the solution to all the times you wanted to registe
 
 - HTML
 - CSS
-- PHP
+- PHP (Yii2)
 - MySQL
 - Bootstrap
 
@@ -20,3 +20,12 @@ Presenting Event Aggregator, the solution to all the times you wanted to registe
 | :-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
 |                                                                                      **[Kamal Sharma](https://linkedin.com/in/kamaldgrt/)**                                                                                       |
 | <a href="https://linkedin.com/in/kamaldgrt/"><img src="https://mpng.subpng.com/20180324/vhe/kisspng-linkedin-computer-icons-logo-social-networking-ser-facebook-5ab6ebfe5f5397.2333748215219374063905.jpg" width="32px" height="32px"></a> |
+
+## Contributors ✨
+
+Special thanks for all the people who had helped this project so far! You 
+can find the comlete list over [here](CONTRIBUTORS.md).
+
+## License :scroll:
+
+This project follows the [BSD 3-Clause "New" or "Revised" License](LICENSE).
