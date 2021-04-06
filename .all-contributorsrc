@@ -1,0 +1,27 @@
+{
+  "files": [
+    "CONTRIBUTORS.md"
+  ],
+  "imageSize": 100,
+  "commit": false,
+  "contributors": [
+    {
+      "login": "KamalDGRT",
+      "name": "Kamal Sharma",
+      "avatar_url": "https://avatars.githubusercontent.com/u/43444282?v=4",
+      "profile": "https://www.linkedin.com/in/kamaldgrt/",
+      "contributions": [
+        "code",
+        "doc",
+        "maintenance",
+        "mentoring"
+      ]
+    }
+  ],
+  "contributorsPerLine": 7,
+  "projectName": "Event-Aggregator",
+  "projectOwner": "DSC-SIST",
+  "repoType": "github",
+  "repoHost": "https://github.com",
+  "skipCi": true
+}
