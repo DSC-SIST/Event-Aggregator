@@ -1,0 +1,13 @@
+# This file is related to assigning the Project Lead for the PRs
+
+addReviewers: true
+
+addAssignees: author
+
+# A list of reviewers to be added to pull requests (GitHub user name)
+reviewers:
+  - KamalDGRT
+  
+skipKeywords:
+  - wip
+  - draft
