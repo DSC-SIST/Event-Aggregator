@@ -24,7 +24,7 @@ Presenting Event Aggregator, the solution to all the times you wanted to registe
 ## Contributors ✨
 
 Special thanks for all the people who had helped this project so far! You 
-can find the comlete list over [here](CONTRIBUTORS.md).
+can find the complete list over [here](CONTRIBUTORS.md).
 
 ## License :scroll:
 
