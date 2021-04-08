@@ -14,7 +14,14 @@
 
 - [ ] I've read the contribution guidelines.
 - [ ] I've checked the issue list before deciding what to submit.
-- [ ] I've edited the `README.md` and link to my code.
+- [ ] I've followed 4 space indentation throughout the file(s)
+- [ ] My code follows the style guidelines(Clean Code) of this project
+- [ ] I have performed a self-review of my own code
+- [ ] I have commented my code, particularly in hard-to-understand areas
+- [ ] I have created a helpful and easy to understand `README.md`
+- [ ] I have made corresponding changes to the documentation
+- [ ] My changes generate no new warnings
+- [ ] I have added tests/screenshots(if any) that prove my fix is effective or that my feature works
 
 #### File(s) Added / Modified
 
