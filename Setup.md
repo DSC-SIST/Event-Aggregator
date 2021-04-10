@@ -81,7 +81,7 @@ Install the tools in this particular order.
 
 -   Step 2.1: Copy the URL of your fork of the repository by clicking on the :clipboard: icon.
 
-![Step 2.1](https://i.imgur.com/sPtxFGi.png)
+![Step 2.1](https://i.imgur.com/FbJ7jv8.png)
 
 -   Step 2.2: Clone your fork inside the `htdocs` folder of the `Xampp` installation.
     -   In my case the `htdocs` folder is present in `C:\LEO\xampp\htdocs`.
