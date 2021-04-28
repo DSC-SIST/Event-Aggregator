@@ -1,4 +1,8 @@
-name: Assign
+# This file is for the /assign command.
+# The contributors can assign themselves to an issue by
+# just commenting /assign on an issue.
+
+name: Slash Assign
 
 on:
   schedule:
@@ -16,7 +20,7 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - name: Assign the user or unassign stale assignments
-        uses: JasonEtco/slash-assign-action@v0.0.3
+        uses: JasonEtco/slash-assign-action@v1
         with:
           assigned_label: Assigned
           days_until_warning: 7
