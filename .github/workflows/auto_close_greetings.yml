@@ -1,0 +1,27 @@
+name: Greets Action
+
+on:
+  issues:
+    types: [closed]
+  pull_request:
+    types: [closed]
+
+jobs:
+  greeting:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: Manoj-Paramsetti/greets-action@main
+        if: ${{ github.event.pull_request.merged == true }}
+        with:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          pr_message: 'Thank you for taking out time to contribute to our project. This pull request is merged and closed successfully by @${{github.actor}}'
+          label_1: 'merged'
+          label_2: 'closed'
+
+      - uses: Manoj-Paramsetti/greets-action@main
+        if: ${{ github.event.pull_request.merged == false}}
+        with:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          issue_message: 'Thank you for taking your time to raise an issue.<br>This issue is closed by @${{github.actor}}'
+          pr_message: 'Thank you for taking your time to contribute in Event Aggregator repository. This pull request is closed successfully by @${{github.actor}}'
+          label_1: 'closed'
